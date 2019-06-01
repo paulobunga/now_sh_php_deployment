@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "learning-php-now-sh-deployment",
+    "builds": [
+        { "src": "*.php", "use": "@now/php" }
+    ]
+}
